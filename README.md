@@ -30,16 +30,13 @@ USAGE
 <!-- usagestop -->
 # Commands
 <!-- commands -->
-- [mynewcli](#mynewcli)
-- [Usage](#usage)
-- [Commands](#commands)
-  - [`mynewcli goodbye`](#mynewcli-goodbye)
-  - [`mynewcli hello`](#mynewcli-hello)
-  - [`mynewcli help [COMMAND]`](#mynewcli-help-command)
+* [`mynewcli goodbye`](#mynewcli-goodbye)
+* [`mynewcli hello`](#mynewcli-hello)
+* [`mynewcli help [COMMAND]`](#mynewcli-help-command)
 
 ## `mynewcli goodbye`
 
-Basic description
+Say Goodbye
 
 ```
 USAGE
