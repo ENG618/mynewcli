@@ -7,7 +7,7 @@ class GoodbyeCommand extends Command {
 }
 
 GoodbyeCommand.description = `Say Goodbye
-This is a more detailed description of the command
+Simply say's goodbye, world!
 `
 
 module.exports = GoodbyeCommand
