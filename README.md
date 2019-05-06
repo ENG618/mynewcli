@@ -6,6 +6,7 @@ test cli to learn oclif
 [![oclif](https://img.shields.io/badge/cli-oclif-brightgreen.svg)](https://oclif.io)
 [![Version](https://img.shields.io/npm/v/mynewcli.svg)](https://npmjs.org/package/mynewcli)
 [![Codecov](https://codecov.io/gh/eng618/mynewcli/branch/master/graph/badge.svg)](https://codecov.io/gh/eng618/mynewcli)
+[![Coverage Status](https://coveralls.io/repos/github/ENG618/mynewcli/badge.svg?branch=master)](https://coveralls.io/github/ENG618/mynewcli?branch=master)
 [![Downloads/week](https://img.shields.io/npm/dw/mynewcli.svg)](https://npmjs.org/package/mynewcli)
 [![License](https://img.shields.io/npm/l/mynewcli.svg)](https://github.com/eng618/mynewcli/blob/master/package.json)
 
@@ -29,9 +30,12 @@ USAGE
 <!-- usagestop -->
 # Commands
 <!-- commands -->
-* [`mynewcli goodbye`](#mynewcli-goodbye)
-* [`mynewcli hello`](#mynewcli-hello)
-* [`mynewcli help [COMMAND]`](#mynewcli-help-command)
+- [mynewcli](#mynewcli)
+- [Usage](#usage)
+- [Commands](#commands)
+  - [`mynewcli goodbye`](#mynewcli-goodbye)
+  - [`mynewcli hello`](#mynewcli-hello)
+  - [`mynewcli help [COMMAND]`](#mynewcli-help-command)
 
 ## `mynewcli goodbye`
 
