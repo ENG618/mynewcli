@@ -35,18 +35,14 @@ USAGE
 
 ## `mynewcli goodbye`
 
-Describe the command here
+Basic description
 
 ```
 USAGE
   $ mynewcli goodbye
 
-OPTIONS
-  -n, --name=name  name to print
-
 DESCRIPTION
-  ...
-  Extra documentation goes here
+  This is a more detailed description of the command
 ```
 
 _See code: [src/commands/goodbye.js](https://github.com/eng618/mynewcli/blob/v0.0.1/src/commands/goodbye.js)_
