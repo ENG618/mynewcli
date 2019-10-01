@@ -4,7 +4,7 @@ describe('goodbye', () => {
   test
   .stdout()
   .command(['goodbye'])
-  .it('runs hello', ctx => {
+  .it('runs goodby', ctx => {
     expect(ctx.stdout).to.contain('goodbye, world!')
   })
 })
